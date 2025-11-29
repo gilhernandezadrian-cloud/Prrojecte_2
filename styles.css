@@ -3,6 +3,17 @@
 .flex{
     display: flex;
 }
+.flex-direction-column{
+    flex-direction: column;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.justify-content-center{
+    justify-content: center;
+}
+
+/*-- GAP --*/
 .gap-10px{
     gap: 10px;
 }
@@ -11,21 +22,56 @@
 }
 
 /*-- COLORES -- */
-.plane-color{
+.color-blue{
     color: #2F80ED;
 }
 .color-black{
     color: #1B1F2D;
+}
+.background-color-blue{
+    background-color: #2F80ED;
+}
+.color-white{
+    color: #FFFFFF;
 }
 
 /* -- CLASES TIPO PADDING -- */
 .padding-left-80px{
     padding-left: 80px;
 }
+.paddin-right-80px{
+    padding-right: 80px;
+}
+.paddin-10px-20px{
+    padding: 10px 20px;
+}
 /* -- MARGIN -- */
 .margin-0px-auto{
     margin: 0px auto;
 }
+/* -- POSITIONS -- */
+.position-absolute{
+    position: absolute;
+}
+.position-relative{
+    position: relative;
+}
+.z-index-1{
+    z-index: 1;
+}
+.top-0{
+    top: 0;
+}
+.bottom-0{
+    bottom: 0;
+}
+.left-0{
+    left: 0;
+}
+.right-0{
+    right: 0;
+}
+
 
 /* -- CLASES TIPO FONT FAMILY -- */
 .font-family-sfProDisplay{
@@ -40,4 +86,14 @@
 /* -- TEXT STYLES --*/
 .text-align-center{
     text-align: center;
+}
+.text-align-start{
+    text-align: start;
+}
+.underline-none{
+    text-decoration: none;
+}
+/* -- BORDERS -- */
+.border-radius-4px{
+    border-radius: 4px;
 }
