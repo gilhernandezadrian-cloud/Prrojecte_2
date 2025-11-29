@@ -1,21 +1,43 @@
+
+/*-- CLASES TIPO FLEX --*/
 .flex{
     display: flex;
-}
-.align-items-center{
-    align-items: center;
-}
-.plane-color{
-    color: #2F80ED;
-}
-.padding-left-80px{
-    padding-left: 80px;
 }
 .gap-10px{
     gap: 10px;
 }
-.font-family-sfProDisplay{
-    font-family: 'SF Pro Display', sans-serif;
+.align-items-center{
+    align-items: center;
+}
+
+/*-- COLORES -- */
+.plane-color{
+    color: #2F80ED;
 }
 .color-black{
     color: #1B1F2D;
+}
+
+/* -- CLASES TIPO PADDING -- */
+.padding-left-80px{
+    padding-left: 80px;
+}
+/* -- MARGIN -- */
+.margin-0px-auto{
+    margin: 0px auto;
+}
+
+/* -- CLASES TIPO FONT FAMILY -- */
+.font-family-sfProDisplay{
+    font-family: 'SF Pro Display', sans-serif;
+}
+
+/* -- WIDTH -- */
+.max-with-400px{
+    max-width: 400px;
+}
+
+/* -- TEXT STYLES --*/
+.text-align-center{
+    text-align: center;
 }
