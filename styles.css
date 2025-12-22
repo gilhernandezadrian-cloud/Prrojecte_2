@@ -53,6 +53,9 @@
 .color-black{
     color: #1B1F2D;
 }
+.color-gray-dark{
+    color: #333333;
+}
 .color-white{
     color: #FFFFFF;
 }
@@ -76,6 +79,13 @@
 }
 .background-color-yellow{
     background-color: #FEE2654D;
+}
+/* --IMAGES-- */
+.background-img-australia{
+    background-image: url('/images/imagen-header-Australia.jpg');
+}
+.background-size-cover{
+    background-size: cover;
 }
 /* -- CLASES TIPO PADDING -- */
 .padding-left-80px{
@@ -125,6 +135,9 @@
 
 
 /* -- WIDTH -- */
+.max-width-1400px{
+    max-width: 1400px;
+}
 .max-width-1000px{
     max-width: 1000px;
 }
@@ -156,6 +169,9 @@
 .height-300px{
     height: 300px;
 }
+.height-60vh{
+    height: 60vh;
+}
 /* -- CLASES TIPO FONT FAMILY -- */
 .font-size-14px{
     font-size: 14px;
@@ -169,6 +185,9 @@
 /* -- TEXT STYLES --*/
 .list-style-none{
     list-style: none;
+}
+.text-decoration-none{
+    text-decoration: none;
 }
 .text-align-center{
     text-align: center;
@@ -189,11 +208,17 @@
 .border-radius-6px{
     border-radius: 6px;
 }
+.border-radius-10px{
+    border-radius: 10px;
+}
 .border-radius-15px{
     border-radius: 15px;
 }
 .border-1px-solid-lightGray{
     border: 1px solid lightgray;
+}
+.border-1px-solid-blue{
+    border: 1px solid #2F80ED;
 }
 .border-none{
     border: none;
