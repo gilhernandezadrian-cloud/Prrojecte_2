@@ -48,11 +48,17 @@
 .margin-bottom-0px{
     margin-bottom: 0px;
 }
+.margin-top-40px{
+    margin-top: 40px;
+}
 .margin-top-0px{
     margin-top: 0px;
 }
 .margin-20px{
     margin: 20px;
+}
+.margin-left-10px{
+    margin-left: 10px;
 }
 /*-- COLORES -- */
 .color-blue{
@@ -87,6 +93,9 @@
 }
 .background-color-yellow{
     background-color: #FEE2654D;
+}
+.background-color-ligth-yellow{
+    background-color: #FCEFCA;
 }
 /* --IMAGES-- */
 .background-img-australia{
