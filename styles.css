@@ -60,9 +60,15 @@
 .margin-left-10px{
     margin-left: 10px;
 }
+.f{
+    margin-right: 5px;
+}
 /*-- COLORES -- */
 .color-blue{
     color: #2F80ED;
+}
+.color-black-dark{
+    color: #181818;
 }
 .color-black{
     color: #1B1F2D;
@@ -205,8 +211,26 @@
 .font-size-14px{
     font-size: 14px;
 }
+.font-size-32px{
+    font-size: 32px;
+}
+.font-size-28px{
+    font-size: 28px;
+}
 .font-size-25px{
     font-size: 25px;
+}
+.font-size-20px{
+    font-size: 20px;
+}
+.font-size-16px{
+    font-size: 16px;
+}
+.font-size-15px{
+    font-size: 15px;
+}
+.font-size-14px{
+    font-size: 14px;
 }
 .font-family-sfProDisplay{
     font-family: 'SF Pro Display', sans-serif;
